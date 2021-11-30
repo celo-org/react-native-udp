@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "base64-js": "^1.1.2",
-    "react": "15.2.1",
+    "react": "15.7.0",
     "react-native": "0.29.2",
     "react-native-udp": "../../"
   }
